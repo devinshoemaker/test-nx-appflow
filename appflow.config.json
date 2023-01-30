@@ -3,7 +3,7 @@
     {
       "appId": "b2eca7ea",
       "root": "apps/nx-appflow",
-      "dependencyInstallCommand": "npm install && cd ../../ && npm install",
+      "dependencyInstallCommand": "npm install && npm install --prefix ../../",
       "webBuildCommand": "cd ../../ && npx nx build nx-appflow"
     }
   ]
