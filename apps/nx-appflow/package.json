@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "devDependencies": {
+    "@capacitor/android": "^4.6.2",
     "@capacitor/cli": "^4.6.2"
   }
 }
