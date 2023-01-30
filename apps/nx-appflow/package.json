@@ -1,0 +1,10 @@
+{
+  "name": "text-nx-appflow",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@capacitor/cli": "^4.6.2"
+  }
+}
